@@ -1,4 +1,5 @@
-## WebPage to Documentation: https://ucsb-cs56-f19.github.io/lab07-jenny353/
+## WebPage to Documentation: <https://ucsb-cs56-f19.github.io/lab07-jenny353/>
+## WebPage to Heroku WebApp: <https://cs56-f19-lab07-jenny353.herokuapp.com>
 
 A simple Spring Boot webapp using:
 * Thymeleaf templating
