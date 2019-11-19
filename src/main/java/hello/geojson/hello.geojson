@@ -1,5 +1,0 @@
-package hello.geojson;
-
-public class FeatureCollection {
-  public String type;
-}
