@@ -1,6 +1,6 @@
-## WebPage to Documentation: <https://ucsb-cs56-f19.github.io/lab07-jenny353/>
-## WebPage to Heroku WebApp: <https://cs56-f19-lab07-jenny353.herokuapp.com>
-## Link to Travis CI: <https://travis-ci.org/ucsb-cs56-f19/lab07-jenny353>
+## WebPage to Documentation: <https://ucsb-cs56-f19.github.io/proj01-jenny353/>
+## WebPage to Heroku WebApp: <https://cs56-f19-proj01-jenny353.herokuapp.com>
+## Link to Travis CI: <https://travis-ci.org/ucsb-cs56-f19/proj01-jenny353>
 
 A simple Spring Boot webapp using:
 * Thymeleaf templating
