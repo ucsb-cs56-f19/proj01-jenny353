@@ -1,4 +1,4 @@
-package hello;
+package earthquakes.searches;
 
 import org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken;
 
