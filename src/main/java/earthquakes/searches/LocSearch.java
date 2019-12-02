@@ -5,18 +5,18 @@ import org.springframework.security.oauth2.client.authentication.OAuth2Authentic
 public class LocSearch {
     
 
-    private int location;
+    private String location;
 
     public LocSearch(){
     }
 
 
-    public int getLocation() {
+    public String getLocation() {
         return location;
     }
 
 
-    public void setLocation(int location) {
+    public void setLocation(String location) {
         this.location = location;
     }
 
